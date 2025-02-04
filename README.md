@@ -3,7 +3,7 @@
 <h2>Paso 1</h2>
 Ingresa los nombres deseados de la gente que participará en el sorteo y dar click en el botón "añadir" para ingresarlo a la lista.
 
-+Observarás que se iran agregando los nombres y serán visibles en la página.
+<br>+Observarás que se iran agregando los nombres y serán visibles en la página.</br>
 
 <h2>Paso 2</h2>
 
